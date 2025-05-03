@@ -6,12 +6,13 @@ menu = {
     "Roll": 220,
     "Coffee": 80,
     "Sandwish": 350,
-    "Deserts": 250
+    "Deserts": 250,
+    "Bbq": 340
 }
 
 # Greet 
 print("Welcome to restaurant")
-print("Pizza: Rs450/=\nPasta: Rs230/=\nChicken Burger: Rs180/=\nRoll: Rs220/=\nCoffee: Rs80/=\nSandwish: Rs350/=\nDeserts: Rs250/=")
+print("Pizza: Rs450/=\nPasta: Rs230/=\nChicken Burger: Rs180/=\nRoll: Rs220/=\nCoffee: Rs80/=\nSandwish: Rs350/=\nDeserts: Rs250/=\nBbq: 340/= ")
 
 order_total = 0
 
